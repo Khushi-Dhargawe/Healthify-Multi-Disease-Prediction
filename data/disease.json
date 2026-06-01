@@ -1,0 +1,166 @@
+{
+  "Fungal infection": {
+    "description": "A medical condition requiring professional attention. Consult a Dermatologist.",
+    "specialist": "Dermatologist"
+  },
+  "Allergy": {
+    "description": "A medical condition requiring professional attention. Consult a Allergist.",
+    "specialist": "Allergist"
+  },
+  "GERD": {
+    "description": "A medical condition requiring professional attention. Consult a Gastroenterologist.",
+    "specialist": "Gastroenterologist"
+  },
+  "Chronic cholestasis": {
+    "description": "A medical condition requiring professional attention. Consult a Hepatologist.",
+    "specialist": "Hepatologist"
+  },
+  "Drug Reaction": {
+    "description": "A medical condition requiring professional attention. Consult a General Physician.",
+    "specialist": "General Physician"
+  },
+  "Peptic ulcer disease": {
+    "description": "A medical condition requiring professional attention. Consult a Gastroenterologist.",
+    "specialist": "Gastroenterologist"
+  },
+  "AIDS": {
+    "description": "A medical condition requiring professional attention. Consult a Infectious Disease Specialist.",
+    "specialist": "Infectious Disease Specialist"
+  },
+  "Diabetes": {
+    "description": "A medical condition requiring professional attention. Consult a Endocrinologist.",
+    "specialist": "Endocrinologist"
+  },
+  "Gastroenteritis": {
+    "description": "A medical condition requiring professional attention. Consult a Gastroenterologist.",
+    "specialist": "Gastroenterologist"
+  },
+  "Bronchial Asthma": {
+    "description": "A medical condition requiring professional attention. Consult a Pulmonologist.",
+    "specialist": "Pulmonologist"
+  },
+  "Hypertension": {
+    "description": "A medical condition requiring professional attention. Consult a Cardiologist.",
+    "specialist": "Cardiologist"
+  },
+  "Migraine": {
+    "description": "A medical condition requiring professional attention. Consult a Neurologist.",
+    "specialist": "Neurologist"
+  },
+  "Cervical spondylosis": {
+    "description": "A medical condition requiring professional attention. Consult a Orthopedist.",
+    "specialist": "Orthopedist"
+  },
+  "Paralysis (brain hemorrhage)": {
+    "description": "A medical condition requiring professional attention. Consult a Neurologist.",
+    "specialist": "Neurologist"
+  },
+  "Jaundice": {
+    "description": "A medical condition requiring professional attention. Consult a Hepatologist.",
+    "specialist": "Hepatologist"
+  },
+  "Malaria": {
+    "description": "A medical condition requiring professional attention. Consult a Infectious Disease Specialist.",
+    "specialist": "Infectious Disease Specialist"
+  },
+  "Chicken pox": {
+    "description": "A medical condition requiring professional attention. Consult a General Physician.",
+    "specialist": "General Physician"
+  },
+  "Dengue": {
+    "description": "A medical condition requiring professional attention. Consult a Infectious Disease Specialist.",
+    "specialist": "Infectious Disease Specialist"
+  },
+  "Typhoid": {
+    "description": "A medical condition requiring professional attention. Consult a Infectious Disease Specialist.",
+    "specialist": "Infectious Disease Specialist"
+  },
+  "Hepatitis A": {
+    "description": "A medical condition requiring professional attention. Consult a Hepatologist.",
+    "specialist": "Hepatologist"
+  },
+  "Hepatitis B": {
+    "description": "A medical condition requiring professional attention. Consult a Hepatologist.",
+    "specialist": "Hepatologist"
+  },
+  "Hepatitis C": {
+    "description": "A medical condition requiring professional attention. Consult a Hepatologist.",
+    "specialist": "Hepatologist"
+  },
+  "Hepatitis D": {
+    "description": "A medical condition requiring professional attention. Consult a Hepatologist.",
+    "specialist": "Hepatologist"
+  },
+  "Hepatitis E": {
+    "description": "A medical condition requiring professional attention. Consult a Hepatologist.",
+    "specialist": "Hepatologist"
+  },
+  "Alcoholic hepatitis": {
+    "description": "A medical condition requiring professional attention. Consult a Hepatologist.",
+    "specialist": "Hepatologist"
+  },
+  "Tuberculosis": {
+    "description": "A medical condition requiring professional attention. Consult a Pulmonologist.",
+    "specialist": "Pulmonologist"
+  },
+  "Common Cold": {
+    "description": "A medical condition requiring professional attention. Consult a General Physician.",
+    "specialist": "General Physician"
+  },
+  "Pneumonia": {
+    "description": "A medical condition requiring professional attention. Consult a Pulmonologist.",
+    "specialist": "Pulmonologist"
+  },
+  "Dimorphic hemorrhoids": {
+    "description": "A medical condition requiring professional attention. Consult a Proctologist.",
+    "specialist": "Proctologist"
+  },
+  "Heart attack": {
+    "description": "A medical condition requiring professional attention. Consult a Cardiologist.",
+    "specialist": "Cardiologist"
+  },
+  "Varicose veins": {
+    "description": "A medical condition requiring professional attention. Consult a Vascular Surgeon.",
+    "specialist": "Vascular Surgeon"
+  },
+  "Hypothyroidism": {
+    "description": "A medical condition requiring professional attention. Consult a Endocrinologist.",
+    "specialist": "Endocrinologist"
+  },
+  "Hyperthyroidism": {
+    "description": "A medical condition requiring professional attention. Consult a Endocrinologist.",
+    "specialist": "Endocrinologist"
+  },
+  "Hypoglycemia": {
+    "description": "A medical condition requiring professional attention. Consult a Endocrinologist.",
+    "specialist": "Endocrinologist"
+  },
+  "Osteoarthritis": {
+    "description": "A medical condition requiring professional attention. Consult a Orthopedist.",
+    "specialist": "Orthopedist"
+  },
+  "Arthritis": {
+    "description": "A medical condition requiring professional attention. Consult a Rheumatologist.",
+    "specialist": "Rheumatologist"
+  },
+  "Vertigo": {
+    "description": "A medical condition requiring professional attention. Consult a ENT Specialist.",
+    "specialist": "ENT Specialist"
+  },
+  "Acne": {
+    "description": "A medical condition requiring professional attention. Consult a Dermatologist.",
+    "specialist": "Dermatologist"
+  },
+  "Urinary tract infection": {
+    "description": "A medical condition requiring professional attention. Consult a Urologist.",
+    "specialist": "Urologist"
+  },
+  "Psoriasis": {
+    "description": "A medical condition requiring professional attention. Consult a Dermatologist.",
+    "specialist": "Dermatologist"
+  },
+  "Impetigo": {
+    "description": "A medical condition requiring professional attention. Consult a Dermatologist.",
+    "specialist": "Dermatologist"
+  }
+}
